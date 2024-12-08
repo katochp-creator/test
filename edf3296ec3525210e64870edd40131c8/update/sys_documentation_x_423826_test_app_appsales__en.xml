@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="appSales" language="en" table="x_423826_test_app_appsales">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>appSales</label>
+            <language>en</language>
+            <name>x_423826_test_app_appsales</name>
+            <plural>appSales</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-12-08 22:43:22</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>appSales</sys_name>
+            <sys_package display_value="TEST APP" source="x_423826_test_app">edf3296ec3525210e64870edd40131c8</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="TEST APP">edf3296ec3525210e64870edd40131c8</sys_scope>
+            <sys_update_name>sys_documentation_x_423826_test_app_appsales__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-12-08 22:43:22</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
